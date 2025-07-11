@@ -304,3 +304,8 @@ textarea{
     color: orange;
     transition: 0.5s;
 }
+.logo2{
+    font-size: 50px;
+    color: #4E47FF;
+    padding: 5px;
+}
