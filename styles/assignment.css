@@ -87,7 +87,6 @@ nav{
 }
 .act-dis{
     display: flex;
-    width: 600px;
     gap: 120px;
     
 }
@@ -111,10 +110,10 @@ nav{
 .follower{
     width: 600px;
     background-color: #e5e7ff;
-    border-radius: 15px;
+    border-radius:15px;
     text-align: center;
     padding: 20px 30px;
-    margin: 0px 50px;
+    margin: 0px 30px;
 
 }
 .user-main{
