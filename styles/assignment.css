@@ -87,7 +87,9 @@ nav{
 }
 .act-dis{
     display: flex;
-    gap: 110px;
+    width: 600px;
+    gap: 120px;
+    
 }
 .ac-head p{
     font-size: 14 px;
